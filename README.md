@@ -1,1 +1,3 @@
-This is a simple image editor implemented in Python using OpenCV, with a GUI made using Tkinter.
+Image Editinng
+
+This is basic image editing code implemented in Python using OpenCV, with GUI created using Tkinter.
